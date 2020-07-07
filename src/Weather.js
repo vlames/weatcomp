@@ -61,7 +61,7 @@ class Locations extends Component {
     
     // Returns the mapped react components to be displayed
     return (
-      <Row mx="4" pb="4" justifyContent="between">{locations}</Row>
+      <Row className="locations-container mx-4">{locations}</Row>
     );
   }
 }
