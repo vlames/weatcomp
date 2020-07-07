@@ -17,7 +17,7 @@ WeatComp is a weather application that is designed to help fellow people make a 
 6. Run ```npm start``` to start the application on your computer
 #### Process to terminate the application
 * In the same terminal session, type ```CTRL + C```
-#### Important
+#### Important!
 * Allow some time for ```npm start``` to start the application. It might not be immediate
 * When submitting city and state for the first time, allow some time for the app to process
 * Sometimes, the weather icon does not appear imediately. Allow some time and it will.
