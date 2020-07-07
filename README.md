@@ -23,7 +23,7 @@ WeatComp is a weather application that is designed to help fellow people make a 
 * Sometimes, the weather icon does not appear imediately. Allow some time and it will.
 
 ### Access application on the web
-* In your favorite browser, go to address: ```https://vlames.github.io/weatcomp```
+* In your favorite browser, go to address: [https://vlames.github.io/weatcomp](https://vlames.github.io/weatcomp)
 
 ### Credits
 * [React environment variables](https://medium.com/@tacomanator/environments-with-create-react-app-7b645312c09d)
