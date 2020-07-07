@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/weatcomp/static/css/main.49804533.chunk.css",
+    "main.css": "/weatcomp/static/css/main.25a50f00.chunk.css",
     "main.js": "/weatcomp/static/js/main.0ee441f6.chunk.js",
     "main.js.map": "/weatcomp/static/js/main.0ee441f6.chunk.js.map",
     "runtime-main.js": "/weatcomp/static/js/runtime-main.2580aa34.js",
@@ -8,15 +8,15 @@
     "static/js/2.f8742248.chunk.js": "/weatcomp/static/js/2.f8742248.chunk.js",
     "static/js/2.f8742248.chunk.js.map": "/weatcomp/static/js/2.f8742248.chunk.js.map",
     "index.html": "/weatcomp/index.html",
-    "precache-manifest.9fbb7edf8f98744d63445bf407145d40.js": "/weatcomp/precache-manifest.9fbb7edf8f98744d63445bf407145d40.js",
+    "precache-manifest.e189c4bc9a8a2379a1b79a7fc331e836.js": "/weatcomp/precache-manifest.e189c4bc9a8a2379a1b79a7fc331e836.js",
     "service-worker.js": "/weatcomp/service-worker.js",
-    "static/css/main.49804533.chunk.css.map": "/weatcomp/static/css/main.49804533.chunk.css.map",
+    "static/css/main.25a50f00.chunk.css.map": "/weatcomp/static/css/main.25a50f00.chunk.css.map",
     "static/js/2.f8742248.chunk.js.LICENSE.txt": "/weatcomp/static/js/2.f8742248.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2580aa34.js",
     "static/js/2.f8742248.chunk.js",
-    "static/css/main.49804533.chunk.css",
+    "static/css/main.25a50f00.chunk.css",
     "static/js/main.0ee441f6.chunk.js"
   ]
 }
