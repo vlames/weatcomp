@@ -15,3 +15,6 @@ WeatComp is a weather application that is designed to help fellow people make a 
 * Allow some time for ```npm start``` to start the application. It might not be immediate
 * When submitting city and state for the first time, allow some time for the app to process
 * Sometimes, the weather icon does not appear imediately. Allow some time and it will.
+
+### Credits
+* [React environment variables](https://medium.com/@tacomanator/environments-with-create-react-app-7b645312c09d)
