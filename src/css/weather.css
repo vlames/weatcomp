@@ -27,3 +27,14 @@
 .col-2 > button {
     width: 100%;
 }
+
+.locations-container {
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+
+@media (max-width: 473px) {
+    .locations-container {
+        justify-content: center;
+    }
+}
